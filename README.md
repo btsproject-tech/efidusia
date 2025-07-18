@@ -15,16 +15,15 @@ Aplikasi DFidusia ini adalah sistem berbasis web untuk pengelolaan proses fidusi
 
 - PHP 7.4
 - Composer
-- MySQL 8.0 atau MariaDB 10.3+
+- MySQL 8.0
 - Web Server (Nginx)
-- Node.js (untuk asset compilation)
 
 ## Instalasi
 
 1. Clone repository:
 ```bash
-git clone https://github.com/username/aplikasi-fidusia-online.git
-cd aplikasi-fidusia-online
+git clone https://github.com/btsproject-tech/efidusia.git
+cd efidusia
 ```
 
 2. Install dependencies:
@@ -105,6 +104,9 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 - Nama Pemilik: Berkat Terang Solusindo
 - Email: info@berkatterangsolusindo.com
+
+## Third Party
+1. 
 
 ---
 
