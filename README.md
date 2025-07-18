@@ -101,11 +101,10 @@ Aplikasi menyediakan API untuk integrasi dengan sistem lain. Dokumentasi API len
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
-## Kontak Pengembang
+## Kontak Pemilik
 
-- Nama Pengembang: [Nama Anda]
-- Email: [email@example.com]
-- Tim Pengembang: [Nama Tim]
+- Nama Pemilik: Berkat Terang Solusindo
+- Email: info@berkatterangsolusindo.com
 
 ---
 
